@@ -1,4 +1,4 @@
 # seascript
-Script for automation functions in the game
+Script for automation functions in SEAFIGHT game
 
 ez use
